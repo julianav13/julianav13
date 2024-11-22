@@ -1,4 +1,3 @@
-<!---
 # Hi I’m 👩‍🔬 Juliana Vásquez  
 
 Welcome to my GitHub profile!  
@@ -21,12 +20,7 @@ I am a **Chemical Engineer** with a strong focus on the **cosmetics and pharmace
 
 Thank you for visiting my profile! Let's create something amazing together. 🚀
 
---->
-- 👋 Hi, I’m 👩‍🔬 Juliana Vásquez  
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+
